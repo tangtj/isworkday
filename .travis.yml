@@ -1,0 +1,9 @@
+language: golang
+go: "1.16"
+
+before_install:
+  - go get neilpa.me/yajsv
+
+script:
+  - ls -l| grep -E -o "[0-9]+\.json" | awk 'BEGIN{ORS=" "}{print $0}'| awk '{print "yajsy -s config/config.schema.json " $0}'| sh
+  - go mod tidy && go build
