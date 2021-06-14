@@ -2,8 +2,205 @@
   "1": [
     {
       "day": 1,
-      "work": true,
+      "work": false,
       "remark": "元旦节"
+    },
+    {
+      "day": 2,
+      "work": false,
+      "remark": "元旦节"
+    },
+    {
+      "day": 3,
+      "work": false,
+      "remark": "元旦节"
+    }
+  ],
+  "2": [
+    {
+      "day": 7,
+      "work": true,
+      "remark": "春节调休上班"
+    },
+    {
+      "day": 11,
+      "work": false,
+      "remark": "春节"
+    },
+    {
+      "day": 12,
+      "work": false,
+      "remark": "春节"
+    },
+    {
+      "day": 13,
+      "work": false,
+      "remark": "春节"
+    },
+    {
+      "day": 13,
+      "work": false,
+      "remark": "春节"
+    },
+    {
+      "day": 15,
+      "work": false,
+      "remark": "春节"
+    },
+    {
+      "day": 16,
+      "work": false,
+      "remark": "春节"
+    },
+    {
+      "day": 17,
+      "work": false,
+      "remark": "春节"
+    },
+    {
+      "day": 20,
+      "work": true,
+      "remark": "春节调休上班"
+    }
+  ],
+  "4": [
+    {
+      "day": 3,
+      "work": false,
+      "remark": "清明节"
+    },
+    {
+      "day": 4,
+      "work": false,
+      "remark": "清明节"
+    },
+    {
+      "day": 5,
+      "work": false,
+      "remark": "清明节"
+    },
+    {
+      "day": 25,
+      "work": true,
+      "remark": "劳动节调休上班"
+    }
+  ],
+  "5": [
+    {
+      "day": 1,
+      "work": false,
+      "remark": "劳动节"
+    },
+    {
+      "day": 2,
+      "work": false,
+      "remark": "劳动节"
+    },
+    {
+      "day": 3,
+      "work": false,
+      "remark": "劳动节"
+    },
+    {
+      "day": 4,
+      "work": false,
+      "remark": "劳动节"
+    },
+    {
+      "day": 5,
+      "work": false,
+      "remark": "劳动节"
+    },
+    {
+      "day": 8,
+      "work": true,
+      "remark": "劳动节调休上班"
+    }
+  ],
+  "6": [
+    {
+      "day": 12,
+      "work": false,
+      "remark": "端午节"
+    },
+    {
+      "day": 13,
+      "work": false,
+      "remark": "端午节"
+    },
+    {
+      "day": 14,
+      "work": false,
+      "remark": "端午节"
+    }
+  ],
+  "9": [
+    {
+      "day": 18,
+      "work": true,
+      "remark": "中秋节调休上班"
+    },
+    {
+      "day": 19,
+      "work": false,
+      "remark": "中秋节"
+    },
+    {
+      "day": 20,
+      "work": false,
+      "remark": "中秋节"
+    },
+    {
+      "day": 21,
+      "work": false,
+      "remark": "中秋节"
+    },
+    {
+      "day": 26,
+      "work": true,
+      "remark": "国庆节调休上班"
+    }
+  ],
+  "10": [
+    {
+      "day": 1,
+      "work": false,
+      "remark": "国庆节"
+    },
+    {
+      "day": 2,
+      "work": false,
+      "remark": "国庆节"
+    },
+    {
+      "day": 3,
+      "work": false,
+      "remark": "国庆节"
+    },
+    {
+      "day": 4,
+      "work": false,
+      "remark": "国庆节"
+    },
+    {
+      "day": 5,
+      "work": false,
+      "remark": "国庆节"
+    },
+    {
+      "day": 6,
+      "work": false,
+      "remark": "国庆节"
+    },
+    {
+      "day": 7,
+      "work": false,
+      "remark": "国庆节"
+    },
+    {
+      "day": 9,
+      "work": true,
+      "remark": "国庆节调休上班"
     }
   ]
 }
